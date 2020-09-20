@@ -1,0 +1,18 @@
+[
+  {
+    "name": "transaction_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "customer_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "transaction_date",
+    "type": "DATE"
+  },
+  {
+    "name": "transaction_amount",
+    "type": "INTEGER"
+  }
+]

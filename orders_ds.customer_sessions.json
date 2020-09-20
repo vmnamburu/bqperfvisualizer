@@ -1,0 +1,14 @@
+[
+  {
+    "name": "transaction_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "transaction_date",
+    "type": "DATE"
+  },
+  {
+    "name": "session_duration",
+    "type": "INTEGER"
+  }
+]
